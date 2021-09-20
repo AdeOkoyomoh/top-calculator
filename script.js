@@ -163,5 +163,4 @@ let calcResult = calculateArray(calcArray);
 console.log(calcResult);
 calcInput = calcResult;
 displayContent.textContent = calcInput;
-calcInput = '';
 });
